@@ -20,3 +20,13 @@
 [x] create for loop to search results
 
 [x] display on DOM
+
+##Do-MORE:
+
+[] make it look pretty (css)
+
+[] jQuery animations for transitions
+
+[] alert user if they leave input field empty
+
+[]

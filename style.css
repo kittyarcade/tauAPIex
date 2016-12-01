@@ -1,0 +1,17 @@
+body {
+  font-family:sans-serif;
+  background-color: #c3c3c3;
+  text-align: center;
+  background-image: url(http://www.waynetheactor.com/Film-Reel.gif);
+  background-repeat: no-repeat;
+  background-position: top;
+}
+
+#outputDiv {
+  margin-top: 150px;
+
+}
+
+.container {
+  margin-top: 90px;
+}
