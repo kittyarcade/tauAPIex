@@ -23,10 +23,8 @@
 
 ##Do-MORE:
 
-[] make it look pretty (css)
+[x] make it look pretty (css)
 
 [] jQuery animations for transitions
 
-[] alert user if they leave input field empty
-
-[]
+[x] alert user if they leave input field empty
