@@ -25,6 +25,6 @@
 
 [x] make it look pretty (css)
 
-[] jQuery animations for transitions
+[x] jQuery animations for transitions
 
 [x] alert user if they leave input field empty

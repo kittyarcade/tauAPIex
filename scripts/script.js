@@ -37,8 +37,10 @@ $(document).ready(function(){
 $('#outputDiv').empty();
 //now loop through results and display movies
 for(var i = 0; i < results.length; i++){
-  $('#outputDiv').append('<p><b>' + results[i].Title + '<b>(' + results[i].Year+')</p>');
+  $('#outputDiv').append('<p><b>' + results[i].Title + ' ' + '<b>(' + results[i].Year+')</p>');
   $('#outputDiv').append('<img src="' + results[i].Poster + '">');
 }//end for
+$('#outputDiv').hide();
+$('#outputDiv').fadeIn('slow');
 };
 });//end show results
