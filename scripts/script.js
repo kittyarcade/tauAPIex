@@ -11,7 +11,7 @@ $(document).ready(function(){
     var searchURL = 'http://www.omdbapi.com/?s=' + searchTitle;
 
     if($('#searchIn').val()=== ''){
-      alert('Opps! Need to enter something in the search');
+      alert('Oops! Need to enter something in the search');
     }
 
     $.ajax({
